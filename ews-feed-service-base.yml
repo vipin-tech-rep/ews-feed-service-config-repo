@@ -15,5 +15,5 @@ config:
       - classpath:/VendorLogoInfoFeed.yml
       - classpath:/HotelIdAncestorsInfoFeed.yml
   import:
-    - classpath:/ContentProviderConnection.yml
+    - classpath:/common-configs/ContentProviderConnection.yml
   exemptedPartners: Kayak,Trivago,TripAdvisor
