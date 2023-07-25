@@ -1,7 +1,7 @@
 contentProvider:
   vrboMappingDataUri: vrbo/mappings?controlFileKey=fb.vrbo.feed.control.file&blacklistFileKey=fb.vrbo.feed.exclusion.file
   controlFileUriMappings:
-    bexIds: hotels?controlFileKey=hotels.ecom.feed.control.new.file
+    bexIds: hotels?controlFileKey=hotels.ecom.feed.control.file
     hcomIds: hotels?controlFileKey=hotels.hcom.feed.control.file
     allHotelIds: hotels?controlFileKey=hotels.feed.control.file
     commonHotelIds: hotels?controlFileKey=hotels.sddp.feed.control.file
